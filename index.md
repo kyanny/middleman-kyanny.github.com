@@ -8,7 +8,7 @@ Kensuke Nagae is a Tokyo-based software engineer.
 
 He likes web and he wants to be a cross-functional developer.
 
-* [Blog](http://blog.kyanny.me/)
+* ![Hatena Blog](/img/hatenablog.svg) [Blog](http://blog.kyanny.me/)
 * [GitHub](https://github.com/kyanny)
 * [Twitter](https://twitter.com/kyanny)
 * [Résumé](/resume.html)
