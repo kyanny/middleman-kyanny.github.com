@@ -12,4 +12,5 @@ He likes web and he wants to be a cross-functional developer.
 * ![GitHub](/img/github.svg) [GitHub](https://github.com/kyanny)
 * ![Twitter](/img/twitter.svg) [Twitter](https://twitter.com/kyanny)
 * ![Blank](/img/blank.svg) [Résumé](/resume.html)
-* ![Contact](/img/email.svg) <kyanny@gmail.com>
+
+![Contact](/img/email.svg) <kyanny@gmail.com>
