@@ -1,0 +1,31 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.starter-template ul.links {
+  padding-left: 0;
+}
+.starter-template ul.links li {
+  display: inline;
+  margin: 0 20px;
+}
+.starter-template ul.contacts {
+  padding-left: 0;
+}
+.starter-template ul.contacts li {
+  margin: 0 20px;
+  list-style-type: none;
+  font-size: medium;
+}
+
+li.github {
+  position: relative;
+  left: -7px;
+}
+
+p.resume {
+  font-size: medium;
+}
