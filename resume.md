@@ -1,7 +1,4 @@
----
-layout: layout
-title: Résumé of Kensuke Nagae
----
+<!-- Convert to PDF http://www.markdowntopdf.com/ -->
 # Kensuke Nagae
 
 * kyanny@gmail.com
@@ -25,20 +22,30 @@ Have an plenty of experience of large scale BtoC web application development wit
 * Perl
 * PHP
 * JavaScript
+* CoffeeScript
+* Backbone.js
+* Chaplin.js
 * Git
 * Subversion
 * Apache
 * nginx
 * MySQL
 * memcached
+* MongoDB
+* Jenkins
 
 ## Experience
+
+### HTML5 single page application development at Quipper Ltd
+
+* Developed a HTML5 single page application CoffeeScript with Chaplin.js (JavaScript MVC framework based on Backbone.js)
+* 2013/05 ~ current
 
 ### Cloud application platform service (PaaS) development at paperboy&co., Inc.
 
 * Launched Sqale ([http://sqale.jp/](http://sqale.jp/)), a cloud application platform service (PaaS) for Ruby and PHP applications
 * Developed Ruby on Rails application and deployment system middleware stack
-* 2012/02 ~ current
+* 2012/02 ~ 2013/05
 
 ### Online photo sharing service development at paperboy&co., Inc.
 
@@ -92,11 +99,13 @@ Have an plenty of experience of large scale BtoC web application development wit
 * [YAPC Asia Tokyo 2011 / Perl web development guide for Rubyist](http://yapcasia.org/2011/talk/49)
 * [Sapporo RubyKaigi 2012 / Inside 30days Album - Fighting against legacy Rails](http://sapporo.rubykaigi.org/2012/en/schedule/details/46.html)
 * [RubyConf Taiwan 2012](http://rubyconf.tw/2012/) (lightning talks) [slide](https://speakerdeck.com/kyanny/introducing-nonopaste-cli-number-rubyconftw2012)
+* [RubyKaigi 2013 / Continuous gem dependency updating with Jenkins and Pull Request](http://rubykaigi.org/2013/talk/S72)
 
 ## Open source contributions
 
 * Member of the organization of [fastladder](https://github.com/fastladder), an open-sourced RSS reader written in Ruby on Rails
-* Contributed some rubygems suck as [Timecop](https://github.com/travisjeffery/timecop/issues/63), [chainsaw](https://github.com/blahed/chainsaw/pulls?direction=desc&page=1&sort=created&state=closed), [net-ssh-gateway](https://github.com/net-ssh/net-ssh-gateway/pull/3), [vegas](https://github.com/quirkey/vegas/pulls/kyanny)
+* Core contributor of [Tachikoma](https://github.com/sanemat/tachikoma), a framework of continual bundle update with pull request
+* Contributed some rubygems such as [Timecop](https://github.com/travisjeffery/timecop/issues/63), [chainsaw](https://github.com/blahed/chainsaw/pulls?direction=desc&page=1&sort=created&state=closed), [net-ssh-gateway](https://github.com/net-ssh/net-ssh-gateway/pull/3), [vegas](https://github.com/quirkey/vegas/pulls/kyanny)
 
 ## Personal interests
 
